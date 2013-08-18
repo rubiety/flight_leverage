@@ -1,0 +1,228 @@
+//This is the main GREYSHADE css file. 
+
+body {
+  background: $sidebar-background;
+  font-family: "Open Sans", "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+::selection, ::-moz-selection, ::-webkit-selection {
+  background-color: $greyshade;
+  color: $color-background;
+}
+
+
+.container {
+  .credit-box {
+    color: #AAA;
+    font-size: .8em;
+    position: fixed;
+    bottom: 20px;
+    left: 40px;
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+
+  // Left Column:
+  .left-col:hover { opacity: 1; }
+  .left-col {
+    width: 20%;
+    position: fixed;
+    opacity: 1;
+    height: 100%;
+    .intrude-less { width: 80%; }
+
+    #header {
+      height: auto;
+      width: 100%;
+      padding: 10% 0% 0% 10%;
+      border-bottom: none;
+
+      a { color: #EFEFEF; text-shadow: 0 1px #333; }
+      a:hover { color: $greyshade; }
+      h1 { font-size: 26px; float: none; }
+      h3 { color: $sidebar-subheader-color; }
+
+      .subtitle { color: #999; font-style: italic; }
+      .profilepic {
+        margin-top: 10px;
+        img {
+          width: 160px;
+          border: 4px solid $greyshade;
+        }
+      }
+      .aboutme { color: #DDD; }
+
+      #sub-nav {
+        float: none;
+        position: relative;
+        margin-top: 10px;
+        .search { 
+          float: none;
+          .alignright { float: none; }
+          &::before { left: 10px; }
+        }
+        .social { float: none; margin-bottom: 10px; }
+      }
+
+      #main-nav {
+        float: none;
+        margin-top: 10px;
+        margin-left: 0px;
+
+        ul { 
+          li {
+            margin-left: 0px;
+            display: block;
+            a { padding: 0px 0px; }
+          }
+        }
+      }
+    }
+  }
+
+  // Middle Column:
+  .mid-col {
+    float: right;
+    width: 80%;
+    background: whitesmoke;
+
+    .mid-col-container {
+      padding: 0px 70px 0px 40px;
+      #content {
+        width: 100%;
+        article {
+          border-top: none;
+          .title { margin-left: 0px; }
+          .entry-content {
+            margin-left: 0px;
+            .gist .gist-file .gist-data {
+              .line_numbers { line-height: inherit; }
+              pre { line-height: inherit; }
+            }
+            h2 {
+              font-size: 1.3em;
+              color: #574C4C;
+              border-bottom: none;
+            }
+            h2::before { border-bottom: none; }
+            blockquote {
+              border-left: 5px solid $greyshade;
+              background: #FCFCFC;
+            }
+            table {
+              line-height: 1.2em;
+              td { text-align: left; }
+            }
+          }
+          .meta {
+            position: relative;
+            float: right;
+            top: 0px;
+            color: #555;
+            text-align: right;
+            width: auto;
+            .date::before { color: #555; position: relative; margin-right: 10px; }
+            .tags::before { color: #999; position: relative; margin-right: 10px; }
+          }
+          h1.title{
+            a { color: #333; -webkit-transition: color 0.3s; -moz-transition: color 0.3s; -o-transition: color 0.3s; transition: color 0.3s; }
+            a:hover { color: $greyshade; -webkit-transition: color 0.3s; -moz-transition: color 0.3s; -o-transition: color 0.3s; transition: color 0.3s; }
+          }
+        }
+      }
+    }
+    footer {
+      width: 100%;
+    }
+  }
+
+}
+
+.archives {
+  .title {
+    font-size: 1.2em;
+  }
+  article {
+    .meta {
+      line-height: 1.5em;
+      margin-top: 0;
+      span::before {
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+a {
+  color: $greyshade;
+}
+
+a:hover {
+  color: $greyshade;
+}
+
+
+
+body {
+  @media screen and (max-width: 1040px){
+    margin: 0 0;
+  }
+}
+
+
+@media screen and (max-width: 1000px){
+  .container {
+    .credit-box {
+      display: none;
+    }
+    .left-col {
+      position: relative;
+      width: 100%;
+      opacity: 1;
+      .intrude-less {
+        margin: 10px;
+      }
+      #header {
+        padding: 10px 0px;
+        text-align: left;
+        .profilepic {
+          float: left;
+          margin-right: 15px;
+          img { width: 120px; }
+        }
+        #sub-nav {
+          display: block;
+          position: absolute;
+          margin-top: -20px;
+        }
+        #main-nav {
+          ul {  
+            display: block;
+            margin-left: 150px;
+            li {
+              display: inline;
+              margin-right: 10px;
+            }
+          }
+        }
+      }
+    }
+    .mid-col {
+      float: none;
+      width: 100%;
+      .mid-col-container {
+        padding: 15px 15px;
+        #content {
+          article {
+            padding: 10px 0;
+            .meta {
+              float: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}

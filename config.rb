@@ -18,6 +18,8 @@ require 'susy'
 # Haml
 ###
 
+set :haml, { ugly: true }
+
 # CodeRay syntax highlighting in Haml
 # First: gem install haml-coderay
 # require 'haml-coderay'
@@ -104,11 +106,27 @@ end
 # Deploy
 ###
 
-activate :deploy do |deploy|
-  deploy.method = :rsync
-  deploy.user = "apps"
-  deploy.host = "flightleverage.com"
-  deploy.port = 2234
-  deploy.path = "/var/www/flightleverage.com/current"
+YAML.load_file("config/deploy.yml").tap do |config|
+  activate :deploy do |deploy|
+    deploy.method = :rsync
+    deploy.user = config["user"]
+    deploy.host = config["host"]
+    deploy.port = config["port"] || 22
+    deploy.path = config["path"]
+  end
 end
+
+
+###
+# Blog
+###
+
+activate :blog do |blog|
+  blog.prefix = "blog"
+  blog.layout = "article"
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+end
+
+page "/feed.xml", :layout => false
 
