@@ -12,7 +12,7 @@
     -# Pull in the page title
     %title= @title
   
-    %meta{:name => "description", :content => "Positive Externality: The Curious Task of Economics..."}
+    %meta{:name => "description", :content => "Flight Leverage: Techniques in Travel Hacking"}
     %meta{:name => "author", :content => "Ben Hughes"}
   
     %meta{:name => "viewport", :content => "width=device-width"}
@@ -30,21 +30,24 @@
       .left-col
         .intrude-less
           %header#header.inner
-            %h1= link_to "Positive Externality", "/"
-            %h3 The Curious Task of Economics...
-            .profilepic
-              %a{:href => "http://benhughes.name"}
-                = image_tag("mug.png", :alt => "Ben Hughes")
+            %h1= link_to "Flight Leverage", "/"
+            %h3 Techniques in Travel Hacking
+            .logo
+              = image_tag("logo.png", :alt => "Ben Hughes")
+              = image_tag("logo.png", :alt => "Ben Hughes")
             %nav#sub-nav
               .social
                 %a.twitter{:href => "http://twitter.com/rubiety", :title => "Twitter"} Twitter
                 %a.github{:href => "https://github.com/rubiety", :title => "GitHub"} GitHub
                 %a.rss{:href => "/feed.xml", :title => "RSS"} RSS
+            %hr
+            .profilepic
+              = image_tag("mug.png", :alt => "Ben Hughes")
             %nav#main-nav
               %ul
                 %li= link_to "&rarr; About Ben Hughes", "http://benhughes.name/"
+                %li= link_to "&rarr; Positive Externality: Economics", "http://www.positiveexternality.com/"
                 %li= link_to "&rarr; Code Colossus: Programming", "http://www.codecolossus.com/"
-                %li= link_to "&rarr; Flight Leverage: Travel Hacking", "http://www.flightleverage.com"
         
       .mid-col
         .mid-col-container

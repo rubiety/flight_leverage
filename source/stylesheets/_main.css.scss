@@ -31,7 +31,7 @@ body {
     position: fixed;
     opacity: 1;
     height: 100%;
-    .intrude-less { width: 80%; }
+    .intrude-less { width: 84%; }
 
     #header {
       height: auto;
@@ -41,10 +41,18 @@ body {
 
       a { color: #EFEFEF; text-shadow: 0 1px #333; }
       a:hover { color: $greyshade; }
-      h1 { font-size: 26px; float: none; }
-      h3 { color: $sidebar-subheader-color; }
+
+      h1 { font-size: 32px; font-weight: bold; float: none; margin-bottom: 5px; }
+      h3 { font-size: 16px; color: $sidebar-subheader-color; }
 
       .subtitle { color: #999; font-style: italic; }
+      .logo { 
+        margin-top: 10px;
+        img {
+          margin-right: 10px;
+        }
+      }
+      hr { border: 1px solid #333; margin: 30px 0; display: block; }
       .profilepic {
         margin-top: 10px;
         img {
