@@ -136,6 +136,11 @@ article {
         margin-top: 0;
       }
     }
+
+    .image-container {
+      @include clearfix;
+      img { float: left; margin-right: 10px; margin-bottom: 10px; }
+    }
   }
 }
 
