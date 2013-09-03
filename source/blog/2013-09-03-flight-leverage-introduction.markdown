@@ -21,7 +21,7 @@ Since leaving my home in May and becoming a travel-full-time digital nomad, I've
 * **Low Throughput, High Quality**: Fewer articles, each one of higher quality.
 * **Open Source**: This entire blog is completely [open sourced on GitHub](http://github.com/rubiety/flight_leverage). Nothing is hidden except my deployment credentials.
 
-### Here's a preview of some articlces you can expect over the next few months:
+### Here's a preview of some articles you can expect over the next few months:
 
 * Mileage Running as a Hobby
 * Hyatt Diamond Challenge for United Golds and Above
