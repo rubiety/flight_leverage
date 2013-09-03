@@ -28,7 +28,7 @@ Since leaving my home in May and becoming a travel-full-time digital nomad, I've
 * Flying Thai Airways 747 First Class for $79
 * Mileage Run Report: Double-Back Red-Eyes at 2.0 CPM
 * Increasing, then Decreasing Marginal Return of Miles
-* United 1K, US Chairman's, and American ExecutivePlatinum in One Year for $10k
+* Mileage Running to United 1K, US Chairman's, and American ExecutivePlatinum in One Year
 * Staying Classy in International First Class with a T-Shirt and a Stuffed Penguin
 * Fifth Freedom Routes for Bargain International First Class
 * Tracking your Miles as a Financial Asset on Mint.com
