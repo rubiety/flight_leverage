@@ -16,7 +16,7 @@ Since leaving my home in May and becoming a travel-full-time digital nomad, I've
 
 ### My approach to travel blogging will be different:
 
-* **No Monetization**: I have no intention of ever monetizing this blog with ads or affiliate links, at least not for a while. I make my living as a software developer, and to the extent a reader might have interesting project work for me in the future, that's monetezation enough.
+* **No Monetization**: I have no intention of ever monetizing this blog with ads or affiliate links, at least not for a while. I make my living as a software developer, and to the extent a reader might have interesting project work for me in the future, that's monetization enough.
 * **No Credit Cards**: I don't find the "credit card game" to be particularly interesting. I prefer to earn miles from actual BIS flying, and I won't ever have anything to say about credit cards.
 * **Low Throughput, High Quality**: Fewer articles, each one of higher quality.
 * **Open Source**: This entire blog is completely [open sourced on GitHub](http://github.com/rubiety/flight_leverage). Nothing is hidden except my deployment credentials.
