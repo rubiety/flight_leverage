@@ -2,7 +2,7 @@
 title: "New Blog: Flight Leverage Introduction"
 ---
 
-Friends who follow my travel escapades have long said I should start a blog, but I've resisted: there's a wealth of other resources with great contet, and I was never sure I contribute beyond all the other great blogs out there.
+Friends who follow my travel escapades have long said I should start a blog, but I've resisted: there's a wealth of other resources with great content, and I was never sure I contribute beyond all the other great blogs out there.
 
 Since leaving my home in May and becoming a travel-full-time digital nomad, I've been immersed in the travel world and have focused on leveraging as much travel value as I can. Coming up with interesting travel hacks has become my passion. Sharing my thoughts, tips, and experiences seems to make sense, and I think now's the right time to start.
 
