@@ -10,7 +10,7 @@ Since leaving my home in May and becoming a travel-full-time digital nomad, I've
 
 * **My academic background is economics**: I bring an analytical approach to miles/points and flights, always cognizant of trade-offs, opportunity cost, and the importance of resisting bias.
 * **I write computer software**: I apply an engineering mindset to most problems, love tinkering, and am passionate about learning how things work. I think there's a surprising amount of cross-over between curious softare engineers and travel hackers.
-* **I'm a digital nomad**: I travel full time, so travel decisions affect me every day. In order to survive without running out of money, I have to leverage small amounts of money lots of travel.
+* **I'm a [digital nomad](http://travel.benhughes.name)**: I travel full time, so travel decisions affect me every day. In order to survive without running out of money, I have to leverage small amounts of money lots of travel.
 * **I find extreme flying invigorating**: I mileage-run primarily for redeemable miles on less-than 3.0 CPM fares. This year I'll fly on about 150,000 miles of mileage runs, in the process hitting United 1K, US Airways Chairman's Preferred, and American ExecutivePlatinum for 2013.
 * **I travel with a [stuffed penguin](http://jettingpenguin.com)**: you can always expect a healthy dose of sillyness, and some random penguin pictures. I am proud to help flightless birds become less flightless.
 
