@@ -8,7 +8,7 @@ Since leaving my home in May and becoming a travel-full-time digital nomad, I've
 
 ### There are a few reasons why I think I bring a unique angle to travel hacking:
 
-* **My academic background is economics**: I bring an analytical approach to miles/points and flights, always cognizant of trade-offs, opportunity cost, and the importance of resisting bias.
+* **My academic background is in economics**: I bring an analytical approach to miles/points and flights, always cognizant of trade-offs, opportunity cost, and the importance of resisting bias.
 * **I write computer software**: I apply an engineering mindset to most problems, love tinkering, and am passionate about learning how things work. I think there's a surprising amount of cross-over between curious softare engineers and travel hackers.
 * **I'm a [digital nomad](http://travel.benhughes.name)**: I travel full time, so travel decisions affect me every day. In order to survive without running out of money, I have to leverage small amounts of money into lots of travel.
 * **I find extreme flying invigorating**: I mileage-run frequently, primarily for redeemable miles, on less-than 3.0 CPM fares. This year I'll fly on about 150,000 miles of mileage runs, in the process hitting UA 1K, US Chairman's Preferred, and AA ExecutivePlatinum for 2013.
