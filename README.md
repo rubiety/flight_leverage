@@ -1,7 +1,7 @@
-Positive Externality
-====================
+Flight Leverage
+===============
 
-Simple Middleman blog for Positive Externality (Economics).
+Simple Middleman blog for Flight Leverage (Travel Hacking).
 
 ## Setup
 
