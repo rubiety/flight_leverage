@@ -39,8 +39,8 @@ I'm looking forward to writing about my favorite hobby. I hope you enjoy the con
 <br />
 
 <div class="image-container">
-  <img alt="Flightless Bird on Cathay First" src="flight-leverage-introduction/cathay_f_penguin.jpg" />
-  <img alt="Flightless Bird on Emirates First" src="flight-leverage-introduction/emirates_f_penguin.jpg" />
-  <img alt="Flightless Bird on Lufthansa 747-8i Business" src="flight-leverage-introduction/lufthansa_j_penguin.jpg" />
+  <img alt="Flightless Bird on Cathay First" src="/blog/2013/09/03/flight-leverage-introduction/cathay_f_penguin.jpg" />
+  <img alt="Flightless Bird on Emirates First" src="/blog/2013/09/03/flight-leverage-introduction/emirates_f_penguin.jpg" />
+  <img alt="Flightless Bird on Lufthansa 747-8i Business" src="/blog/2013/09/03/flight-leverage-introduction/lufthansa_j_penguin.jpg" />
 </div>
 
