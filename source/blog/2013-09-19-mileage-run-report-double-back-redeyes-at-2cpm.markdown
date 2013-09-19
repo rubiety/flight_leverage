@@ -77,7 +77,7 @@ This flight was great. We were both upgraded, sitting together, and we both watc
 
 ### September 11th's Second Red-eye: LAS-EWR, then EWR-BOS
 
-<a target="_blank" class="right" href="/blog/2013/09/19/mileage-run-report-double-back-redeyes-at-2cpm/harland_thumb.jpg"><img src="/blog/2013/09/19/mileage-run-report-double-back-redeyes-at-2cpm/harland_thumb.jpg" alt="Fellow Mileage Runner" /></a>
+<a target="_blank" class="right" href="/blog/2013/09/19/mileage-run-report-double-back-redeyes-at-2cpm/harland.jpg"><img src="/blog/2013/09/19/mileage-run-report-double-back-redeyes-at-2cpm/harland_thumb.jpg" alt="Fellow Mileage Runner" /></a>
 
 We were not upgraded on this four and a half hour redeye flight. But I guess it didn't matter that much as we both slept nearly the entire flight from sheer exhaustion. It's interesting to note that this was technically our **second red-eye on September 11th departing Las Vegas** - we had left the same morning at 12:33am enroute to IAH.
  
