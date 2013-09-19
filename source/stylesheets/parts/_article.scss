@@ -140,6 +140,22 @@ article {
     .image-container {
       @include clearfix;
       img { float: left; margin-right: 10px; margin-bottom: 10px; }
+
+      &.right {
+        float: right;
+      }
+    }
+
+    .right {
+      float: right; 
+      margin-left: 10px; 
+      margin-bottom: 10px;
+    }
+
+    .left {
+      float: left; 
+      margin-right: 10px; 
+      margin-bottom: 10px;
     }
   }
 }
