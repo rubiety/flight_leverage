@@ -2,7 +2,7 @@
 title: "Mileage Run Report: Back-To-Back Red-Eye and Returns at 2CPM"
 ---
 
-This article was jointly written by [Sean Meehan of Freak Went Flying](http://www.freakwentflying.com) and [Ben Hughes of Flight Leverage](http://www.flightleverage.com) and will appear jointly.
+_This article was jointly written by [Sean Meehan of Freak Went Flying](http://www.freakwentflying.com) and [Ben Hughes of Flight Leverage](http://www.flightleverage.com) and appears jointly._
 
 ### How can we resist 2.0 CPM?
 
