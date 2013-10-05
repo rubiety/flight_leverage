@@ -2,7 +2,7 @@
 title: Anatomy of a 2.4 CPM Beijing Booking
 ---
 
-Late morning in Sydney I got an e-mail into my inbox from [IFFT](https://ifttt.com/), which I use to monitor mileage run posts, that there was a $448 fare from Philadelphia to Beijing. Ever since booking a mileage run to Shanghai in December, I decided I'd get a Chinese 1 year visa and eventually go back to China next year for a proper visit. After relaying the news, some friends asked me how I was able to book such a complicated routing.
+Late morning in Sydney I got an e-mail into my inbox from [IFTTT](https://ifttt.com/), which I use to monitor mileage run posts, that there was a $448 fare from Philadelphia to Beijing. Ever since booking a mileage run to Shanghai in December, I decided I'd get a Chinese 1 year visa and eventually go back to China next year for a proper visit. After relaying the news, some friends asked me how I was able to book such a complicated routing.
 
 The routing I ended up getting was:
 
