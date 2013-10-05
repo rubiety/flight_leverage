@@ -8,7 +8,7 @@ The routing I ended up getting was:
 
 <pre>PHL-MIA-MCO(Overnight)-ORD-PEK, PEK-ORD-CMH-DFW-PHL</pre>
 
-This will earn me 18,405 elite qualifying miles, and with my soon-to-be AA ExecutivePlatinum status, 36,810 redeemable miles at a cost of 2.4 cents per mile.
+This will earn me 18,405 elite qualifying miles at a cost of 2.4 cents per mile, and with my soon-to-be AA ExecutivePlatinum status, 36,810 redeemable miles which I value at about $700.
 
 <br />
 
