@@ -7,6 +7,9 @@ Late morning in Sydney I got an e-mail into my inbox from [IFTTT](https://ifttt.
 The routing I ended up getting was:
 
 <pre>PHL-MIA-MCO(Overnight)-ORD-PEK, PEK-ORD-CMH-DFW-PHL</pre>
+
+This will earn me 18,405 elite qualifying miles, and with my soon-to-be AA ExecutivePlatinum status, 36,810 redeemable miles at a cost of 2.4 cents per mile.
+
 <br />
 
 <img src="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking/gcmap.png" alt="Map of Beijing Routing" />
