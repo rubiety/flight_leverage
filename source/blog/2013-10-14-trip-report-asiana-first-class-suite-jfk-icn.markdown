@@ -2,17 +2,6 @@
 title: "Trip Report: Asiana First Class Suite JFK-ICN"
 ---
 
-#### Trip Report Index for Six-Week Journey to Australia & Asia:
-* [Asiana First Class Suite JFK-ICN](/blog/2013/10/14/trip-report-asiana-first-class-suite-jfk-icn.html)
-* Thai Airways First Class SYD-BKK
-* Thai Airways A380 First Class BKK-HKG
-* Cathay Pacific First Class HKG-SIN
-* Singapore Airlines A380 First Class Suite SIN-HKG
-* Emirates A380 First Class Suite HKG-BKK
-* Thai Airways A380 Business Class BKK-NRT
-* ANA First Class Suite NRT-ORD
-
-<br />
 Back in February I was ecstatic to find award space on Asiana First Class Chicago to Seoul and ANA First Class Tokyo to Chicago on the same award, so I quickly booked a redemption to Australia with a stopover in Asia (140,000 US Airways miles, for about $29,000 "worth of" flights, and a pretty good sweet spot on their award chart). Asiana ended up moving their private suite route from Chicago to New York, so I had to shuffle around some flights to keep my private suite, and I'm really glad I did. They've only got the suite product on two 777-200ER planes, both now servicing JFK only. Note that Asiana codes this plane as 77W, which shows up as 777-300ER to other airlines, but is really a 777-200ER.
 
 I started the trip on an uneventful United flight IAD-JFK, and quickly wandered over to JFK Terminal 4 to an empty check-in line for Asiana First Class.
@@ -168,3 +157,14 @@ Upon deplaning, I explored Seoul Incheon airport after clearing transit security
 
 The experience on Asiana First Class was phenomenal. Although the flight attendants could probably use some more English training, the service was outstanding: warm, always courteous, and often anticipating my needs. The new Asiana First Class Suite is a wonderful hard product, I'd say even better than the Emirates A380 Suite hard product, and I would definitely go out of my way to fly this JFK-ICN route again over Asiana's old first class. I hope Asiana quickly retrofits this new product into their other 777's so other routes to the US might feature this outstanding first class cabin.
 
+#### Trip Report Index for Six-Week Journey to Australia & Asia:
+* [Asiana First Class Suite JFK-ICN](/blog/2013/10/14/trip-report-asiana-first-class-suite-jfk-icn.html)
+* Thai Airways First Class SYD-BKK
+* Thai Airways A380 First Class BKK-HKG
+* Cathay Pacific First Class HKG-SIN
+* Singapore Airlines A380 First Class Suite SIN-HKG
+* Emirates A380 First Class Suite HKG-BKK
+* Thai Airways A380 Business Class BKK-NRT
+* ANA First Class Suite NRT-ORD
+
+<br />
