@@ -138,12 +138,12 @@ article {
     }
 
     .image-container {
+      margin: 10px 0;
       @include clearfix;
       img { float: left; margin-right: 10px; margin-bottom: 10px; }
 
-      &.right {
-        float: right;
-      }
+      &.right { float: right; }
+      &.two-up { img { width: 45%; }}
     }
 
     .right {
