@@ -159,9 +159,9 @@ The experience on Asiana First Class was phenomenal. Although the flight attenda
 
 #### Trip Report Index for Six-Week Journey to Australia & Asia:
 * [Asiana First Class Suite JFK-ICN](/blog/2013/10/14/trip-report-asiana-first-class-suite-jfk-icn.html)
-* Thai Airways First Class SYD-BKK
+* [Thai Airways First Class SYD-BKK](/blog/2013/10/29/trip-report-thai-747-first-class-syd-bkk.html)
 * Thai Airways A380 First Class BKK-HKG
-* Cathay Pacific First Class HKG-SIN
+* Cathay Pacific First Class TPE-HKG
 * Singapore Airlines A380 First Class Suite SIN-HKG
 * Emirates A380 First Class Suite HKG-BKK
 * Thai Airways A380 Business Class BKK-NRT

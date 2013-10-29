@@ -102,3 +102,14 @@ Upon landing I could see that were were taxi-ing to a remote gate. Although I lo
 
 I had a great time on Thai's 747 and look forward to trying the new "refreshed" 747 cabin they're starting to introduce on some routes, and their A380 first class product which I'll be flying next week!
 
+#### Trip Report Index for Six-Week Journey to Australia & Asia:
+* [Asiana First Class Suite JFK-ICN](/blog/2013/10/14/trip-report-asiana-first-class-suite-jfk-icn.html)
+* [Thai Airways First Class SYD-BKK](/blog/2013/10/29/trip-report-thai-747-first-class-syd-bkk.html)
+* Thai Airways A380 First Class BKK-HKG
+* Cathay Pacific First Class TPE-HKG
+* Singapore Airlines A380 First Class Suite SIN-HKG
+* Emirates A380 First Class Suite HKG-BKK
+* Thai Airways A380 Business Class BKK-NRT
+* ANA First Class Suite NRT-ORD
+
+<br />
