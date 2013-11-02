@@ -52,13 +52,13 @@ Singapore keeps their Suites passengers down on the lower deck (for more head ro
   <img src="/blog/2013/11/02/trip-report-singapore-a380-private-suite-sin-hkg/suite_2.jpg" alt="Singapore A380 Suite" />
 </div>
 
-I was quickly served a glass of champagne, but unlike other airlines, no hot nuts. Two flight attendants and the purser introduced themselves, wishing me a plesant flight and informing me time to Hong Kong would be three hours and thirty-five minutes. I was also presented with a drink and brunch menu. Singapore is somewhat unique in offering both Dom Perignon and Krug champagne choices on their flights. I talked a bit with the flight attendant about my love for airplanes, and she graciously offered to take me on a tour of the A380 after the meal service!
+I was quickly served a glass of champagne, but unlike other airlines, no hot nuts. Two flight attendants and the purser introduced themselves, wishing me a pleasant flight and informing me time to Hong Kong would be three hours and thirty-five minutes. I was also presented with a drink and brunch menu. Singapore is somewhat unique in offering both Dom Perignon and Krug champagne choices on their flights. I talked a bit with the flight attendant about my love for airplanes, and she graciously offered to take me on a tour of the A380 after the meal service!
 
 <div class="image-container">
   <img src="/blog/2013/11/02/trip-report-singapore-a380-private-suite-sin-hkg/two_champagnes.jpg" alt="Two Champagnes" />
 </div>
 
-For the meal I chose the "Dim Sum Selection", which started with a fruit plate and some yogurt. Everything was great, though I wasn't particularly hungry that early in the morning. During brunch I watched a documentary on the Hubble Space Telescope on the escellent Singapore in-flight entertainment system. The flight attendant incorrectly said it was the largest screen in the skies (Asiana has a bigger screen on their rare 777-200ER private suites, both flying to JFK - [read my trip report flying that here](/blog/2013/11/02/trip-report-singapore-a380-private-suite-sin-hkg.html)).
+For the meal I chose the "Dim Sum Selection", which started with a fruit plate and some yogurt. Everything was great, though I wasn't particularly hungry that early in the morning. During brunch I watched a documentary on the Hubble Space Telescope on the excellent Singapore in-flight entertainment system. The flight attendant incorrectly said it was the largest screen in the skies (Asiana has a bigger screen on their rare 777-200ER private suites, both flying to JFK - [read my trip report flying that here](/blog/2013/11/02/trip-report-singapore-a380-private-suite-sin-hkg.html)).
 
 <div class="image-container">
   <img src="/blog/2013/11/02/trip-report-singapore-a380-private-suite-sin-hkg/meal_fruit.jpg" alt="Fruit" />
