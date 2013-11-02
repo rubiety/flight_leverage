@@ -107,7 +107,7 @@ I had a great time on Thai's 747 and look forward to trying the new "refreshed" 
 * [Thai Airways First Class SYD-BKK](/blog/2013/10/29/trip-report-thai-747-first-class-syd-bkk.html)
 * Thai Airways A380 First Class BKK-HKG
 * Cathay Pacific First Class TPE-HKG
-* Singapore Airlines A380 First Class Suite SIN-HKG
+* [Singapore Airlines A380 First Class Suite SIN-HKG](/blog/2013/11/02/trip-report-singapore-a380-private-suite-sin-hkg.html)
 * Emirates A380 First Class Suite HKG-BKK
 * Thai Airways A380 Business Class BKK-NRT
 * ANA First Class Suite NRT-ORD
