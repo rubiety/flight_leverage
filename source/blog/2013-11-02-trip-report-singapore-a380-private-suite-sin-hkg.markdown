@@ -76,7 +76,7 @@ For the meal I chose the "Dim Sum Selection", which started with a fruit plate a
 
 After meal service was finished, the lead flight attendant fulfilled her promise of a private tour of the airplane, walking me first up the front stairs to business class, down the length of the upper deck - in the process showing me the business class seat and how it converts into a bed, then down the spiral staircase in the back to economy class, and all the way back to Suites. As an aviation geek, it was really awesome having an experienced Singapore Airlines flight attendant personally show me the airplane she (and I) was so proud of.
 
-As we returned to the first class cabin, she began talking about how on longer flights the seat can be converted into a bed. My question-asking must have fueled her, and before I know it, two flight attendants were preparing the two middle suites into a full double bed, proudly showing me how amazing a double bed in the skies is. She invited me to lay down and enjoy it, and served me another glass of champagne in what would be come my "bedroom" for the remainer of the flight. 
+As we returned to the first class cabin, she began talking about how on longer flights the seat can be converted into a bed. My question-asking must have fueled her, and before I know it, two flight attendants were preparing the two middle suites into a full double bed, proudly showing me how amazing a double bed in the skies is. She invited me to lay down and enjoy it, and served me another glass of champagne in what would be come my "bedroom" for the remainder of the flight. 
 
 I have to say, after being served Dom Perignon in a double-suite bedroom before returning to my dining room at 36,000 feet, I'm not sure flying experiences get any better than this. I might as well quit flying now, as nothing else will compare. I couldn't remove the grin from my face this whole time, and profusely thanked the flight attendants for catering to my inner airplane nerd. 
 
@@ -109,7 +109,7 @@ Landing in Hong Kong is always a treat, with a vast array of interesting wide-bo
   <img src="/blog/2013/11/02/trip-report-singapore-a380-private-suite-sin-hkg/hong_kong_airport.jpg" alt="Hong Kong Airport" />
 </div>
 
-After this incredible experience, I'm incrasing my valuation of Amex Membership Rewards and Starwood points simply so reflect my much stronger desire to use them in the future on Singapore Airlines First/Suites class. I would love to experience this again on a long haul segment!
+After this incredible experience, I'm increasing my valuation of Amex Membership Rewards and Starwood points simply to reflect my much stronger desire to use them in the future on Singapore Airlines First/Suites class. I would love to experience this again on a long haul segment!
 
 #### Trip Report Index for Six-Week Journey to Australia & Asia:
 * [Asiana First Class Suite JFK-ICN](/blog/2013/10/14/trip-report-asiana-first-class-suite-jfk-icn.html)
