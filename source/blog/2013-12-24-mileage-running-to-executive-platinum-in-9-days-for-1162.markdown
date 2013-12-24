@@ -87,7 +87,7 @@ My flight back was also uneventful, and I was able to make it to Miami that nigh
 
 <img src="/blog/2013/12/24/mileage-running-to-executive-platinum-in-9-days-for-1162/final_map.png" alt="Final Routing" />
 
-#### ExecutivePlatinum Finally Attained
+### ExecutivePlatinum Finally Attained
 
 About a week later, my ExecutivePlatinum status posted along with my eight systemwide (international business classs) upgrade certificates:
 
@@ -101,7 +101,7 @@ All told, I paid **$1,162** ($1,462 in airfare, less then $300 volunteer travel 
 
 Though the first part of the trip was drama-filled and stressful, navigating through the storm was a challenge unto itself, and I had a blast. It feels great to set a goal, dodge bullets, and see your goal fulfilled. Next year when flying American's new 777-300ER aircraft in lie-flat business class eight times, I'll look back on my nine days of mileage running and thank myself for doing this.
 
-#### Lessons Learned
+### Lessons Learned
 
 1. Build in some slack with extreme itineraries. Irregular operations are a fact of life, and involuntary re-routing may destroy your mile goals ("original routing credit" is not a sure thing). I only made it through the DFW weather issues with a lot of luck.
 2. Be pro-activate with your itineraries: monitor incoming aircraft and keep an eye out on alternative routes with seat availability. 
