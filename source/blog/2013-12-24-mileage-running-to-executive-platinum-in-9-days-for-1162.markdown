@@ -29,7 +29,7 @@ I then added in positioning flights from Austin, Texas (where I planned to be in
 #### $161 Austin to Los Angeles: AUS-DFW-LAX (1,425 mi @ 11.3 CPM)
 #### $123 San Diego to Austin: SAN-LAX-AUS (1,351 mi @ 9.1 CPM)
 
-This all combined into the following compact nine day trip for December 9th - 13th:
+This all combined into the following compact nine day trip for December 6th - 13th:
 
 #### $1,462: AUS-DFW-LAX-BNA-DFW-PTY-DFW-LAX-BNA-ORD-PVG-ORD-MIA-LAX,SAN-LAX-AUS (30,278 mi @ 4.8 CPM)
 <img src="/blog/2013/12/24/mileage-running-to-executive-platinum-in-9-days-for-1162/full_map.png" alt="Full Routing" />
