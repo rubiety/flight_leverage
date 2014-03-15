@@ -3,26 +3,24 @@ title: Ancillary Benefits of Mileage Running (as a Nomad)
 ---
 
 Since June 2013 I have been a homeless nomad, [traveling full time](http://travel.benhughes.name). Travel
-hacking and frequent flyer miles & hotel points are the only way I could even remotely afford
-to do this.
-
-While nomading, I have continued to do a fair amount of mileage running, and I've
+hacking, frequent flyer miles, and hotel points are the only way I could even remotely afford
+to do this. While nomading, I have continued to do a fair amount of mileage running, and I've
 really come to appreciate some of the ancillary benefits beyond just the miles
 that anyone in a similar situation should factor into the analysis. 
 
-Let's look at a typical weighing of the costs & benefits of mileage running, in
-order of intensity:
+**Let's look at a typical weighing of the costs & benefits of mileage running, in
+order of intensity:**
 
-Potential Benefits:
-* Elite-Qualifying miles earned
+**Potential Benefits:**
+* Elite-qualifying miles earned
 * Redeemable miles earned
-* See a new city for a day
+* Seeing a new city for a day
 * Experiencing the joy of flying (if you actively enjoy it)
 
-Potential Costs:
+**Potential Costs:**
 * Airfare
 * Transportation costs
-* Lodging costs (if staying over night)
+* Lodging costs (if staying overnight)
 * Positioning flights, if applicable
 * Wasted time on the plane
 * Wasted time in logistics of getting to and on the plane
@@ -38,7 +36,7 @@ particularly applicable to nomads like myself:**
 
 * A free place to sleep. This displaces money that would otherwise have to be spent on some sort of lodging. The value of this may be low given the "accomodations" don't approach hotel-level, but it's surely non-zero.
 * A free place to take a shower in the lounge. I have taken many free showers (coupled with a free night stay) that has some value to me.
-* Free food and drink on the airplanes.
+* Free food and drink on the airplanes. Again, this displaces money you'd need to spend on food anyways, nomad or not.
 * Free food and drink in the lounge.
 * Free massage in the lounge (e.g. Amex Centurion in DFW, Thai Airways First Class Lounge in BKK)
 
@@ -50,14 +48,14 @@ enjoyed *fifteen* free meals (with drink) entirely as a consequence of paying my
 airfare. Conservatively valued at $10/meal, that's $150 on a $600 ticket - 1/4th
 of the entire cost! Add in the fact that I got three free nights of lodging with
 shower (on the airplane, in business/first class, showered in the lounges), valued at even $40/night,
-that's a total of $270 in ancillary benefits, *almost one-half of the entire
-ticket cost*.
+that's a total of $270 in ancillary benefits, **almost one-half of the entire
+ticket cost**.
 
 But those are merely benefits from using the airport system. There's also
 potential benefits with re-positioning to a place with a lower cost of living.
 During my recent mileage run to Beijing, I spent way below my normal budget on both food and
 lodging simply because Beijing was so cheap. You can
-argue about whether that should be considered a net benefit, but I think mileage
+argue about whether that should be considered a net benefit, but I do think mileage
 running can *open the door* to experiencing a lower cost of living - even if for
 a short period of time.
 
