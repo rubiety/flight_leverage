@@ -11,18 +11,20 @@ indeed access Star Alliance lounges.
 This often leads people to believe - incorrectly - that when traveling
 domestically it's simply not possible to access a lounge.
 
-But that's not quite what the rules say. The way the rules are written for Star
+But that's not quite what the rules say. The way the [rules are written](http://www.staralliance.com/en/benefits/status-benefits/lounge-access-policy/) for Star
 Alliance actually makes specific exceptions for United Clubs and US Airways
 clubs, but *not* other Star Alliance Gold lounges:
 
-[quote]
+<div class="image-container">
+  <img src="/blog/2014/03/16/accessing-lufthansa-lounges-domestically-as-star-gold/rules.png" alt="Lounge Access Rules" />
+</div>
 
 This means that non-United and US Airways Star Alliance Gold lounges are
 actually accessible *even on domestic trips*!
 
 Now, *in practice* this isn't quite as amazing as it sounds, since often foreign
 Star Alliance Gold lounges are simply not accessible from domestic terminals.
-This is true at almost all United Clubs, with one exception: Washington Dulles.
+This is true at almost all airports with foreign lounges, with one notable exception: Washington Dulles.
 
 Washington Dulles has Lufthansa Senator & Business lounges near gate B49 that
 are perfectly accessible from the rest of the terminal. While little-known, it's
