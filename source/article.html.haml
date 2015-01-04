@@ -1,13 +1,13 @@
-- @title = "#{current_page.title} | Flight Leverage"
+- @title = "#{current_page.title if current_page.respond_to?(:title)} | Flight Leverage"
 
 - wrap_layout :layout do
   %article.post
     .meta
-      .date= current_page.date.strftime('%b %e, %Y')
-      .tags= current_page.tags.join(", ")
-    %h1.title= link_to current_page.title, current_page
+      .date= current_page.date.strftime('%b %e, %Y') if current_page.respond_to?(:date)
+      .tags= current_page.tags.join(", ") if current_page.respond_to?(:tags)
+    %h1.title= link_to current_page.title, current_page if current_page.respond_to?(:title)
     .entry-content
-      = current_page.body
+      = current_page.body if current_page.respond_to?(:body)
   .share
     .addthis_toolbox.addthis_default_style
       %a.addthis_button_facebook_like{"fb:like:layout" => "button_count"}

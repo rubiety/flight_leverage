@@ -30,7 +30,7 @@ After getting the results, you should get a "Book" deep link to book directly to
 effectively circumventing searching for this particular routing (and failing) on United.com.
 
 Now, the above example effectively filters the connection to only those
-*airports8, but doesn't restrict on airline at all. In the above example, that
+airports, but doesn't restrict on airline at all. In the above example, that
 very well may show American Airlines flights even if you intended on searching
 only United routings. 
 

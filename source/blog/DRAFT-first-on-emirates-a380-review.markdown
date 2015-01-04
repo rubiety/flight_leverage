@@ -2,7 +2,7 @@
 title: Flight Review - First Class on the Emirates A380
 ---
 
-Amidst a recent trip I did to Asia on a [stretched United redemption], I spotted an opportunity to fulfill one of my long-time dreams: fly first class on the Emirates A380. Typically priced quite high ($20,000 or more for a round trip from New York to Dubai), and knowing Emirates lack of alliance made it difficult to acquire on miles, I knew I had to take advantage of the opportunity.
+Amidst a recent trip I did to Asia on a stretched United redemption, I spotted an opportunity to fulfill one of my long-time dreams: fly first class on the Emirates A380. Typically priced quite high ($20,000 or more for a round trip from New York to Dubai), and knowing Emirates lack of alliance made it difficult to acquire on miles, I knew I had to take advantage of the opportunity.
 
 Emirates operates a few little-known "tag routes" in their network on the A380, including a Bangkok to Hong Kong flight that's only three hours long. While checking fares for various airlines on this (most around $200 one-way in Economy), I happened to notice that the *first class* fare on the Emirates A380 was only $640! Though still about three times that of economy, I just couldn't resist thought of sampling what is arguably the best first class experience in the world on "BlingAir" for far less than $1,000.
 
