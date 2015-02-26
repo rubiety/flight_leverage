@@ -1,5 +1,5 @@
 ---
-title: My travel strategy, illustrated with my trip to Budapest
+title: My travel strategy, illustrated with my $421 trip to Budapest
 ---
 
 I often get asked how I'm able to travel so much and keep it affordable. I'm not
