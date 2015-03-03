@@ -109,7 +109,7 @@ seat for fairly cheap.
 **Here's a run-down of what I booked and what the out-of-pocket costs were:**
 
 * $843: American Airlines Los Angeles to Budapest through London roundtrip, 
-  deliberately booked on dates with the loweset yields in business class, for
+  deliberately booked on dates with the lowest yields in business class, for
   highest chance of upgrades clearing. Indeed I did end up clearing both ways.
 * $232: Three nights at the Radisson Blu Beke Budapest hotel.
 * $124: Two nights at the Park Inn Bratislava, Slovakia.
