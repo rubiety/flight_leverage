@@ -11,3 +11,10 @@ Simple Middleman blog for Flight Leverage (Travel Hacking).
 
   $ curl http://www.flightleverage.com/penguin
 
+## Deploying
+
+Hosting is handled by dokku as a static site with the [buildpack-nginx](https://github.com/dokku/buildpack-nginx) buildpack (specified in `.env`).
+
+Configuration:
+
+    NGINX_ROOT=build
