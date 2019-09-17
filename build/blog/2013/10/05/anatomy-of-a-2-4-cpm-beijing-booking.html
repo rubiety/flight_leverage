@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js'>
+  <!--<![endif]-->
+  <head>
+    <meta charset='utf-8'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <title>Anatomy of a 2.4 CPM Beijing Booking | Flight Leverage</title>
+    <meta content='Flight Leverage: Techniques in Travel Hacking' name='description'>
+    <meta content='Ben Hughes' name='author'>
+    <meta content='width=device-width' name='viewport'>
+    <link href='/favicon.ico' rel='shortcut icon'>
+    <meta content='http://www.flightleverage.com/images/logo_with_background.png' property='og:image'>
+    <link href="/stylesheets/application.css" rel="stylesheet" />
+    <script src="/javascripts/libs/modernizr-2.6.1.min.js"></script>
+  </head>
+  <body class=''>
+    <!--[if lt IE 7]>
+      <p class='chromeframe'>
+        You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.
+      </p>
+    <![endif]-->
+    <div class='container'>
+      <div class='left-col'>
+        <div class='intrude-less'>
+          <header class='inner' id='header'>
+            <h1><a href="/">Flight Leverage</a></h1>
+            <h3>Techniques in Travel Hacking</h3>
+            <div class='logo'>
+              <img src="/images/logo.png" alt="Logo" />
+              <img src="/images/logo.png" alt="Logo" />
+            </div>
+            <nav id='sub-nav'>
+              <div class='social'>
+                <a class='twitter' href='http://twitter.com/rubiety' title='Twitter'>Twitter</a>
+                <a class='github' href='https://github.com/rubiety' title='GitHub'>GitHub</a>
+                <a class='rss' href='/feed.xml' title='RSS'>RSS</a>
+              </div>
+            </nav>
+            <hr>
+            <div class='profilepic'>
+              <a href="http://benhughes.name"><img alt="Ben Hughes" src="http://www.gravatar.com/avatar/92772ff5353c89d9bd10f8e334161e16.jpg?s=160" /></a>
+            </div>
+            <nav id='main-nav'>
+              <ul>
+                <li><a href="http://benhughes.name/">&rarr; About Ben Hughes</a></li>
+                <li><a href="http://travel.benhughes.name/">&rarr; Nomading Photo Blog</a></li>
+                <li><a href="http://jettingpenguin.com/">&rarr; The Jetting Penguin</a></li>
+              </ul>
+            </nav>
+          </header>
+        </div>
+      </div>
+      <div class='mid-col'>
+        <div class='mid-col-container'>
+          <div class='inner' id='content' role='main'>
+            <article class='post'>
+              <div class='meta'>
+                <div class='date'>Oct  5, 2013</div>
+                <div class='tags'></div>
+              </div>
+              <h1 class='title'><a href="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking.html">Anatomy of a 2.4 CPM Beijing Booking</a></h1>
+              <div class='entry-content'>
+                <p>Late morning in Sydney I got an e-mail into my inbox from <a href="https://ifttt.com/">IFTTT</a>, which I use to monitor mileage run posts, that there was a <strong>$448 roundtrip fare from Philadelphia to Beijing</strong>. Ever since booking a mileage run to Shanghai in December, I decided I'd get a Chinese 1 year visa and eventually go back to China next year for a proper visit. After relaying the news, some friends asked me how I was able to book such a complicated routing.</p>
+                
+                <p>The routing I ended up getting was:</p>
+                
+                <pre>PHL-MIA-MCO(Overnight)-ORD-PEK, PEK-ORD-CMH-DFW-PHL</pre>
+                
+                <p>This will earn me 18,405 elite qualifying miles at a cost of 2.4 cents per mile, and with my soon-to-be AA ExecutivePlatinum status, 36,810 redeemable miles which I value at about $700.</p>
+                
+                <p><br /></p>
+                
+                <p><img src="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking/gcmap.png" alt="Map of Beijing Routing" /></p>
+                
+                <p>The key tool to investigating any good fare is <a href="http://matrix.itasoftware.com/?showCostPerMile=true">ITA Matrix</a>, and you can start by putting in the origin/destination airports and "AA+" for advanced routing codes, since I knew this was an American Airlines fare. In my experience with ITA Matrix, failing to put in restricting airline routing codes will sometimes fail to show lots of complicated routing options. When I didn't put in "AA+", I only saw basic routings. When I did, a vast number of ridiculous routings appeared. I'm not sure why this is, but it's something to keep in mind for the future.</p>
+                
+                <p><br />
+                <img src="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking/ita.png" alt="ITA Matrix" /></p>
+                
+                <p>Choosing amongst the routings can be difficult, but be sure to first "Sort by price per mile":
+                <br />
+                <img src="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking/ita_cpm.png" alt="ITA Matrix CPM" /></p>
+                
+                <p>From there I don't necessarily choose the lowest CPM. When looking at complicated routings, I optimize mostly based on connection time and airport, within a narrow band of acceptable CPM. Especially in the winter, the possibility for irregular operations is high. One thing to consider for every segment is "Plan B" - what if your flight gets delayed? In my case, I deliberately chose a routing through Miami on the outbound, knowing that since that's an American Airlines hub, if something went wrong I could probably make it to Chicago (another American Airlines hub) pretty easily without actually flying through Orlando. I'm less concerned about delays on the return with no major flight to miss.</p>
+                
+                <p>After settling on my routing, I now needed to find an OTA to book the itinerary. With United bookings I almost always use Hipmunk, trying to force the routing using Hipmunk's advanced routing codes. With American Airlines I haven't had much success doing this. Orbitz seems to work well with American Airlines bookings, so I headed over there.</p>
+                
+                <p>The key with Orbitz is to feed segments one-by-one into the Multi-City tool, but with a limitation: Orbitz only gives you six segments to enter. My particular itinerary had eight segments. The way around this is to reduce the number of segments you're searching for by skipping the most implied/obvious connections. On my routing, I choose to imply that MCO-PEK would be found as MCO-(ORD)-PEK, and that PEK-CMH would imply PEK-(ORD)-CMH. This reduced down the number of segments to six, which just fits for an Orbitz search:</p>
+                
+                <p><br />
+                <img src="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking/orbitz_outbound.png" alt="Orbitz Outbound" />
+                <img src="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking/orbitz_inbound.png" alt="Orbitz Inbound" /></p>
+                
+                <p>Orbitz should then price the itinerary appropriately and you can book from there.</p>
+                
+                <p>After booking, it should get ticketed with a few hours. You can then go to American Airlines and add the itinerary to your account under Travel Information &gt; My Trips:</p>
+                
+                <p><img src="/blog/2013/10/05/anatomy-of-a-2-4-cpm-beijing-booking/aa_my_trips.png" alt="AA My Trips" /></p>
+              </div>
+            </article>
+            <div class='share'>
+              <div class='addthis_toolbox addthis_default_style'>
+                <a class='addthis_button_facebook_like' fb:like:layout='button_count'></a>
+                <a class='addthis_button_tweet'></a>
+                <a class='addthis_button_pinterest_pinit'></a>
+                <a class='addthis_counter addthis_pill_style'></a>
+              </div>
+              <script>
+                var addthis_config = {"data_track_addressbar":true};
+              </script>
+              <script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50f375741ce28b08' type='text/javascript'></script>
+            </div>
+            <div id='comment'>
+              <div id='disqus_thread'></div>
+              <script>
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'positiveexternality'; // required: replace example with your forum shortname
+                
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+              </script>
+              <a class='dsq-brlink' href='http://disqus.com'>
+                comments powered by
+                <span class='logo-disqus'>Disqus</span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <footer>
+          <p>&copy; 2011-2019 Rubidiom, LLC</p>
+        </footer>
+      </div>
+    </div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>
+      window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.8.2.min.js"><\/script>')
+    </script>
+    <script src="/javascripts/plugins.js"></script><script src="/javascripts/script.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-3202633-17', 'flightleverage.com');
+      ga('send', 'pageview');
+    </script>
+    <script>
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'flightleverage'; // required: replace example with your forum shortname
+      
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function () {
+          var s = document.createElement('script'); s.async = true;
+          s.type = 'text/javascript';
+          s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    </script>
+  </body>
+</html>
